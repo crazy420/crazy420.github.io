@@ -42,7 +42,7 @@ Sachin Kamath, who contributed a lot of his time during install fest gave a talk
 
 ![Sarup](https://raw.githubusercontent.com/crazy420/crazy420.github.io/master/images/Fedora-engagement-day/day2/sarupatoz.jpg)
 
-  Sarup took Intro to the Fedora Project and what it means for students, followed by a run through the A-Z guide. Before the session got started, he told me a surprising secret. It seems design team from fedora sent him fedora A-Z guide slides but he is not supposed to open those slides until the talk gets started. He gave a detailed explaination about how the fedora community works. I saw great deal of excitement in sarup's face when the slide with letter G gave Glitter Gallery. We all knew that sarup contributes to fedora but we did not expect him to know the whole fedora community. He introduced us to a lot of interesting people in fedora community. Sarup continued his talk on monday with some very inspiring notes.
+  Sarup took Intro to the Fedora Project and what it means for students, followed by a run through the A-Z guide. He gave a detailed explaination about how the fedora community works. I saw great deal of excitement in sarup's face when the slide with letter G gave Glitter Gallery. We all knew that sarup contributes to fedora but we did not expect him to know how the whole fedora community functions. He introduced us to a lot of interesting people in fedora community. Sarup continued his talk on monday with some very inspiring notes.
 
 ![Participants](https://raw.githubusercontent.com/crazy420/crazy420.github.io/master/images/Fedora-engagement-day/day2/students.jpg)
 
