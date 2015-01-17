@@ -4,9 +4,9 @@ email: manjush@openmailbox.org
 description: > # this means to ignore newlines until "baseurl:"
   This is my personal blog. It consists my personal opinions about various things I came accross in my life
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: crazy420.github.io # the base hostname & protocol for your site
+url: manjush3v.github.io # the base hostname & protocol for your site
 twitter_username: manjush3
-github_username:  crazy420
+github_username:  manjush3v
 
 # Build settings
 markdown: kramdown
