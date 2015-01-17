@@ -9,12 +9,12 @@ I started reading a book called lateral thinking by Edward Debono recently. It s
 
 Initial brain surface :
 
-![Initial brain surface](https://raw.githubusercontent.com/crazy420/crazy420.github.io/master/images/Finding-patterns/image1.jpg)
+![Initial brain surface](https://raw.githubusercontent.com/manjush3v/manjush3v.github.io/master/images/Finding-patterns/image1.jpg)
 
 
 Surface after some information flows in to your brain:
 
-![Surface after some information flows in to your brain](https://raw.githubusercontent.com/crazy420/crazy420.github.io/master/images/Finding-patterns/image2.jpeg)
+![Surface after some information flows in to your brain](https://raw.githubusercontent.com/manjush3v/manjush3v.github.io/master/images/Finding-patterns/image2.jpeg)
 
 You can observe the patterns on the surface. That describes that brain is just an environment.
 
@@ -22,7 +22,7 @@ When new information flows in to the mind ,it organizes itself to form patterns.
 
 Now that this pattern is already present in mind.When new information comes in to mind, it can either form a new pattern or deepen the existing pattern. It might look this, when new info comes in
 
-![Surface after some information more flows in to your brain](https://raw.githubusercontent.com/crazy420/crazy420.github.io/master/images/Finding-patterns/image3.jpeg)
+![Surface after some information more flows in to your brain](https://raw.githubusercontent.com/manjush3v/manjush3v.github.io/master/images/Finding-patterns/image3.jpeg)
 
 It shows that previous information organization effects the new information.
 
@@ -88,4 +88,4 @@ I am not suggesting that vertical thinking(common thinking) is unimportant. I am
 
 * Edward debono Lateral thinking
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Finding human brain patterns </span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://fedoraproject.org/wiki/User:Manjushv" property="cc:attributionName" rel="cc:attributionURL">Vundemodalu Manjush</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/crazy420/crazy420.github.io" rel="dct:source">https://github.com/crazy420/crazy420.github.io</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Finding human brain patterns </span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://fedoraproject.org/wiki/User:Manjushv" property="cc:attributionName" rel="cc:attributionURL">Vundemodalu Manjush</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/manjush3v/manjush3v.github.io" rel="dct:source">https://github.com/manjush3v/manjush3v.github.io</a>.
